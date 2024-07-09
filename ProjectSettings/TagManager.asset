@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "Yarat\u0131k"
+  - "Yarat\u0131kMermi"
+  - EbonarMermi
+  - "Yarat\u0131kMermi2"
+  - "Yarat\u0131k2"
+  - "Di\u011FerMap"
+  - "GeriD\xF6n"
+  - Ebonar
+  - "YetenekGeli\u015Ftirme"
+  - "Mermi\xC7\u0131k\u0131\u015FYeri"
+  - CheckPoint
+  - "Ba\u015Flang\u0131\xE7Kap\u0131"
+  - "1Kap\u0131"
+  - "2Kap\u0131"
+  - "3Kap\u0131"
+  - "4Kap\u0131"
+  - "5-8Kap\u0131"
+  - "9Kap\u0131"
+  - Anahtar
+  - "Sand\u0131k"
+  - "Gizli Sand\u0131k"
+  - "10Kap\u0131"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ebonar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
